@@ -1,2 +1,2 @@
-# ScienceStock
-Stock management and analytics
+# Science Management
+Utilizo el data science para la administración de cualquier negocio
